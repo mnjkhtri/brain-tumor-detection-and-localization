@@ -1,5 +1,3 @@
-# brain-tumor-detection-and-localization
-
 ### HF space:
 
 https://huggingface.co/spaces/mnjkhtri/brain_tumor_segmentation
